@@ -3,4 +3,3 @@ opencv-python
 imageio
 numpy
 Pillow
-libgl1-mesa-glx
