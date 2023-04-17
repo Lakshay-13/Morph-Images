@@ -1,5 +1,6 @@
 streamlit
-opencv-python==4.5.3.56
+opencv-python
 imageio
 numpy
 Pillow
+libgl1-mesa-glx
