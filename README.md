@@ -6,7 +6,7 @@ Graph Morphing
 
 Graph Morphing is an innovative Streamlit application that allows you to morph two or more graph images and generate a smooth morphing GIF.
 
-![Application Screenshot]([<screenshot_url>](https://github.com/Lakshay-13/Morph-Images/blob/main/demo.png))
+![Application Screenshot](https://github.com/Lakshay-13/Morph-Images/blob/main/demo.png)
 
 ## Features
 
